@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Alizeegod's github stats](https://github-readme-stats.vercel.app/api?username=alizeegod&show_icons=true&theme=radical)](https://github.com/alizeegod)
+
+
 <!--
 **alizeegod/alizeegod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
